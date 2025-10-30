@@ -93,4 +93,4 @@ Cuando abras el Pull Request:
 > 💡 **Recuerda:** esta práctica no trata solo de programar, sino de **colaborar como un equipo profesional**, comunicarse mediante Pull Requests y aprender a trabajar en proyectos compartidos.
 ---
 
-# Fecha de entrega: 4 de noviembre de 22025 a las 18:00
+# Fecha de entrega: 4 de noviembre de 2025 a las 18:00
