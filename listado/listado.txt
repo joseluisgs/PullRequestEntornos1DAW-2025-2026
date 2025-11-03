@@ -7,3 +7,5 @@ Alumnado:
 - Aitor Arostegui Navarro.
 - Nicolás Ortega Fernández
 - Alejandro Zaragoza Pacheco.
+- Erik Moreno Uceda
+
