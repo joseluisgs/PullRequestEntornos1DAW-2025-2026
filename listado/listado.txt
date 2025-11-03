@@ -4,6 +4,5 @@ Moódulo: Entornos de Desarrollo
 
 Alumnado:
 - Miguel Hernández Jiménez
-- Adrián García-Heras Herrero
 - Aitor Arostegui Navarro.
 - Nicolás Ortega Fernández
