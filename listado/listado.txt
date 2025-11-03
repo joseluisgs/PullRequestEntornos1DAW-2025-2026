@@ -3,20 +3,7 @@ Profesor: José Luis González Sánchez
 Moódulo: Entornos de Desarrollo
 
 Alumnado:
-<<<<<<< HEAD
+- Miguel Hernández Jiménez
 - Adrián García-Heras Herrero
 - Aitor Arostegui Navarro.
 - Nicolás Ortega Fernández
-=======
-
-
-
-
-
-
-
-
-
-
-Miguel Hernández Jiménez
->>>>>>> 26ed828 (Añadido fichero y modificado otro en el directorio /listado)
