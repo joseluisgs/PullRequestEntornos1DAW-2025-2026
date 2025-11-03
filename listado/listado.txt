@@ -3,6 +3,7 @@ Profesor: José Luis González Sánchez
 Moódulo: Entornos de Desarrollo
 
 Alumnado:
-
-Erik Moreno Uceda.
+- Miguel Hernández Jiménez
+- Aitor Arostegui Navarro.
+- Nicolás Ortega Fernández
 
