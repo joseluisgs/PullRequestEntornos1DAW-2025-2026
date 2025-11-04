@@ -10,3 +10,4 @@ Alumnado:
 - Erik Moreno Uceda
 - Álvaro Ruiz Velázquez
 - Lucía Fuertes Cruz
+- Antoine Amir López Jauregui
