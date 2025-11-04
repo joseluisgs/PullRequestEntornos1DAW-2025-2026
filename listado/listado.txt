@@ -3,13 +3,10 @@ Profesor: José Luis González Sánchez
 Moódulo: Entornos de Desarrollo
 
 Alumnado:
-<<<<<<< HEAD
-Diego Gonzalez Manzanero
-=======
 - Miguel Hernández Jiménez
 - Aitor Arostegui Navarro.
 - Nicolás Ortega Fernández
 - Alejandro Zaragoza Pacheco.
 - Erik Moreno Uceda
+- Diego Gonzalez Manzanero.
 
->>>>>>> dev
