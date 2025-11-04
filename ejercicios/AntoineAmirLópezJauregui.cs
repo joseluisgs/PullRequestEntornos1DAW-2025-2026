@@ -1,5 +1,5 @@
 
-// Hundir la flota
+// Hundir la flotaa
 using Math
 // 1. CONSTANTES GLOBALES
 const int ENTRAR_JUEGO = 1
