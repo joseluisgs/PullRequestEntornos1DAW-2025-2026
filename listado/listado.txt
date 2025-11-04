@@ -13,3 +13,4 @@ Alumnado:
 - Adrián García-Heras Herrero
 - Diego Gonzalez Manzanero
 - Antoine Amir López Jauregui
+- Cristian Alvarez Fernández
