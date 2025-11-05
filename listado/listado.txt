@@ -2,7 +2,7 @@ Listado de Clase 1º DAW.
 Profesor: José Luis González Sánchez
 Moódulo: Entornos de Desarrollo
 
-Alumnado:
+Alumnado: 
 - Miguel Hernández Jiménez
 - Aitor Arostegui Navarro.
 - Nicolás Ortega Fernández
@@ -13,3 +13,5 @@ Alumnado:
 - Adrián García-Heras Herrero
 - Diego Gonzalez Manzanero
 - Antoine Amir López Jauregui
+- Cristian Alvarez Fernández
+- Sergio Entremonzaga Donoso

@@ -251,4 +251,4 @@ procedure informeBanderas(string b1, string b2, string b3)
     writeLine("Banderas: " + b1);
     writeLine("Banderas: " + b2);
     writeLine("Banderas: " + b3);
-}
+}   
