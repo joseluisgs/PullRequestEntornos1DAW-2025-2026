@@ -59,7 +59,8 @@ function decimal averageVector(int[] vector) {
     //Variable contador para comprobar la cantidad de elementos a dividir
     var counter = 0;
 
-    for(int i = 0; i < vector.Length; i++) {
+    for (int i = 0; i < vector.Length; i++)
+    {
         counter = counter + vector[i];
     }
 
@@ -70,5 +71,6 @@ function decimal averageVector(int[] vector) {
     decimal result = length / (decimal)counter;
 
     return result; //Devolvemos la media del vector (ej. 24.3)
+
 
 }
