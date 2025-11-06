@@ -43,3 +43,4 @@ void Main(string[] args)
     double media = (double)sumaMaximos / n;
     Console.WriteLine($"La media de los máximos de cada fila es: {media:F2}");
 }
+
