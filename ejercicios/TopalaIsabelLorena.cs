@@ -8,4 +8,5 @@ Main {
     string valido = (validez == true) ? “Dentro del rango” : “Fuera de rango”;
 
     writeLine(“El numero es:” +valido);
+    
 }
