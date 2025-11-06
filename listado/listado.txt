@@ -22,3 +22,4 @@ Alumnado:
 - Rafael Achutegui Caballero 
 - Isabel Lorena Topala
 - Pablo Zuil Armenteros
+- Roberto Feraru
