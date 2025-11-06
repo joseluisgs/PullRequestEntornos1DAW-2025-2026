@@ -25,3 +25,4 @@ Alumnado:
 - Pablo Zuil Armenteros
 - Roberto Feraru
 - Daniel Requena Colon
+- Georgica Florian Grigore
