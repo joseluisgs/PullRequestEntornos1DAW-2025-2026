@@ -72,5 +72,4 @@ function decimal averageVector(int[] vector) {
 
     return result; //Devolvemos la media del vector (ej. 24.3)
 
-
 }
